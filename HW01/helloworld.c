@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// name: Brent Hailpern
-// email: b.hailpern@northeastern.edu
+// name: your_name
+// email: your_northeastern_email
 
 int main() {
-  printf("Hello World.  This is Brent.\n");
+  printf("Hello World.  This is your_name.\n");
   return 0;
 }
